@@ -1,0 +1,6 @@
+{
+  "_comment": "Codex 切换器运行环境配置。python 指向本机真实 Python 3 解释器（仅用于后台拉起端砚网关 gateway.py）。留空或路径失效时，程序会自动在 PATH 与常见安装目录里查找。",
+  "python": "C:\\Users\\xukunhang\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+  "app_id": "CodexSwitcher.Desktop.1",
+  "version": "1.0.0"
+}
