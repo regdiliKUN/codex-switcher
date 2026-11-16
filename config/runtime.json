@@ -1,0 +1,6 @@
+{
+  "_comment": "Codex 切换器运行环境配置。python 是「可选的本机覆盖项」：仅当本机 Python 不在 PATH 或需要指定版本时才填；它指向真实 Python 3 解释器（只用于后台拉起端砚网关 gateway.py）。换机器后此路径多半失效，留空即可——程序会按 环境变量 → PATH → 常见安装目录 自动发现；完全找不到时端砚模式干净失败，绝不启动额外进程。app_id 必须与 PyInstaller 打包时一致。",
+  "python": "",
+  "app_id": "CodexSwitcher.Desktop.1",
+  "version": "1.0.0"
+}
