@@ -141,3 +141,7 @@ venv\Scripts\python tools\make_icon.py assets
 
 业务逻辑主体（模式定义、config.toml 改写、重启 Codex）未改动；网关子进程的启动方式、
 凭证读取、健康检查与界面事件泵做了健壮性加固（详见根目录《20 轮迭代记录.md》）。
+
+## 许可
+
+MIT，见 [LICENSE](LICENSE)。
